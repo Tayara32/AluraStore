@@ -57,7 +57,8 @@ Todo o projeto foi desenvolvido diretamente no Google Colab, sem necessidade de 
 ## ▶️ Como Executar o Notebook
 
 1. **Abra o notebook no Google Colab.**
-2. **Execute as células na ordem em que aparecem.**  
+2. **Execute as células na ordem em que aparecem.**
+ 
    Os dados são carregados automaticamente das seguintes URLs:
 
 ```python
@@ -73,10 +74,11 @@ loja2 = pd.read_csv(url2)
 loja3 = pd.read_csv(url3)
 loja4 = pd.read_csv(url4)
 ```
-
 3. **Execute as células na ordem em que aparecem.**
-Certifique-se de ter as bibliotecas **pandas** e **matplotlib** disponíveis.
-No Colab, elas já vêm instaladas por padrão.
+   
+   Certifique-se de ter as bibliotecas **pandas** e **matplotlib** disponíveis.  
+   No Colab, elas já vêm instaladas por padrão.
+
 
 ---
 ## 📌 Conclusão
