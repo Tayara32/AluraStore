@@ -43,15 +43,26 @@ Todo o projeto foi desenvolvido diretamente no Google Colab, sem necessidade de 
 ## 📈 Exemplos de Gráficos e Insights
 
 - **Faturamento por Loja:**  
+  Identificar quais lojas estão performando melhor em termos de receita e quais precisam de mais atenção para melhorar as vendas.
 
-- **Vendas por Categoria:**  
+- **Vendas por Categoria:**
+  Verificar quais categorias de produtos geram maior faturamento.
 
-- **Média de Avaliações:**  
+- **Média de Avaliações:**
+  Analisar a média das avaliações por loja.
 
-- **Produtos Mais Vendidos:**  
+- **Produtos Mais Vendidos:**
+  Mostrar os produtos mais e menos vendidos, por loja, para identificar padrões de preferência.
 
-- **Frete Médio por Loja:**  
+- **Frete Médio por Loja:**
+  Avaliar o custo médio de frete por loja.
 
+- **Relatório Final:**
+  Resumo consolidado de todas as análises, com o objetivo de responder à questão central:
+  *O Sr. João possui quatro lojas e pretende vender uma delas. Com base nos dados, será feita uma análise para auxiliar na melhor decisão.*
+  
+- **Análise de Desemprenho Geográfico:**
+  Análise da distribuição geográfica das lojas e suas vendas por região, observando a influência da localização no desempenho comercial.
 ---
 
 ## ▶️ Como Executar o Notebook
